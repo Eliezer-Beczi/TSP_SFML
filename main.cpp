@@ -3,7 +3,7 @@
 // 511
 
 // Grafikus konyvtar: SFML
-// Kompilalas: g++ L06_beim1697.cpp -O3 -lsfml-graphics -lsfml-window -lsfml-system
+// Kompilalas: g++ main.cpp -O3 -lsfml-graphics -lsfml-window -lsfml-system
 // Futtatas: ./a.out
 
 // Zoom in: I
